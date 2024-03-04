@@ -1,4 +1,4 @@
-# Mint-Y-Dark-Green theme for ULauncher
+# Mint-Y-Dark-Orange theme for ULauncher
 
 _Created for:_ [Linux Mint Cinnamon Edition](https://www.linuxmint.com/download.php)
 
@@ -13,6 +13,6 @@ mkdir -p ~/.config/ulauncher/user-themes
 ```
 
 ```
-git clone https://github.com/sudo-adduser-jordan/ulauncher-mint-y-dark-green.git  ~/.config/ulauncher/user-themes/mint-y-dark-green
+git clone https://github.com/sudo-adduser-jordan/ulauncher-mint-y-dark-orange.git  ~/.config/ulauncher/user-themes/mint-y-dark-orange
 ```
-![uluancher.png](https://github.com/sudo-adduser-jordan/ulauncher-mint-y-dark-green/blob/main/ulauncher.png)
+![uluancher.png](https://github.com/sudo-adduser-jordan/ulauncher-mint-y-dark-orange/blob/main/ulauncher.png)
