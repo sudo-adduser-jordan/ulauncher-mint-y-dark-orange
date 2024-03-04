@@ -2,6 +2,7 @@
 
 _Created for:_ [Linux Mint Cinnamon Edition](https://www.linuxmint.com/download.php)
 
+<!-- publish and update icon packs -->
 _Icon Pack:_ [Windows 11 Dark ](https://www.cinnamon-look.org/p/2106379/)
 
 ## Installation
